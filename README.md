@@ -1,7 +1,7 @@
 # AutomateRS
 RuneScape - Automated
 
-Client support: Devious
+Suppported client: Devious
 
 Plugin developers: Zackaery & Boredaholic
 
